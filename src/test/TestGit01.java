@@ -6,5 +6,6 @@ public class TestGit01 {
         System.out.println("hello git");
         System.out.println("第一次修改");
         System.out.println("第二次修改");
+        System.out.println("dev分支修改");
     }
 }
