@@ -9,5 +9,6 @@ public class TestGit01 {
         System.out.println("main分支修改");
         System.out.println("dev分支修改");
         System.out.println("c1客户端修改");
+        System.out.println("c2客户端修改");
     }
 }
